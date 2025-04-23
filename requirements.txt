@@ -1,0 +1,6 @@
+speechrecognition==3.14.2
+pydub==0.25.1
+typing-extensions==4.13.2
+standard-aifc==3.13.0
+audioop-lts==0.2.1
+standard-chunk==3.13.0
